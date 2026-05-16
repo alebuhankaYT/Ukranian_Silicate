@@ -1,6 +1,6 @@
-# Silicate
+# Ukranian Silicate
 
-This is the main repository for the Silicate bot. 
+This is a repository for a Silicate bot modification. 
 
 ## Versioning
 
